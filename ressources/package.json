@@ -1,24 +1,32 @@
 {
-  "name": "thingy-crypto-node",
-  "version": "0.0.1",
-  "description": "The thingy-crypto-node is the keeper of an ed25519 keypair, implementing all basic crypto functionality for this specific keypair",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": ["thingy", "crypto", "encryption", "signature", "ed25519", "el-gamal","diffie-hellman"],
-  "author": "Lenard Frommelt lenard@frommelt.dev",
-  "license": "Unlicense",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/JhonnyJason/thingy-crypto-node.git"
-  },
-  "bugs": {
-    "url": "https://github.com/JhonnyJason/thingy-crypto-node/issues"
-  },
-  "homepage": "https://github.com/JhonnyJason/thingy-crypto-node-output#readme",
-  "dependencies": {
-    "secret-manager-crypto-utils": "^0.3.0"
-  },
-  "type": "module"
+    "name": "thingy-crypto-node",
+    "version": "0.0.1",
+    "description": "The thingy-crypto-node is the keeper of an ed25519 keypair, implementing all basic crypto functionality for this specific keypair",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "thingy",
+        "crypto",
+        "encryption",
+        "signature",
+        "ed25519",
+        "el-gamal",
+        "diffie-hellman"
+    ],
+    "author": "Lenard Frommelt lenard@frommelt.dev",
+    "license": "Unlicense",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JhonnyJason/thingy-crypto-node.git"
+    },
+    "bugs": {
+        "url": "https://github.com/JhonnyJason/thingy-crypto-node/issues"
+    },
+    "homepage": "https://github.com/JhonnyJason/thingy-crypto-node-output#readme",
+    "dependencies": {
+        "secret-manager-crypto-utils": "^0.3.0"
+    },
+    "type": "module"
 }
