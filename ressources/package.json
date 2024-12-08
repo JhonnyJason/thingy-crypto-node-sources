@@ -1,6 +1,6 @@
 {
     "name": "thingy-crypto-node",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "The thingy-crypto-node is the keeper of an ed25519 keypair, implementing all basic crypto functionality for this specific keypair",
     "main": "index.js",
     "scripts": {
@@ -16,7 +16,7 @@
         "diffie-hellman"
     ],
     "author": "Lenard Frommelt lenard@frommelt.dev",
-    "license": "Unlicense",
+    "license": "CC0",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/JhonnyJason/thingy-crypto-node.git"
@@ -26,7 +26,7 @@
     },
     "homepage": "https://github.com/JhonnyJason/thingy-crypto-node-output#readme",
     "dependencies": {
-        "secret-manager-crypto-utils": "^0.3.0"
+        "secret-manager-crypto-utils": "^0.3.1"
     },
     "type": "module"
 }
