@@ -54,4 +54,4 @@ All sorts of inputs are welcome, thanks!
 ---
 
 # License
-[Unlicense JhonnyJason style](https://hackmd.io/nCpLO3gxRlSmKVG3Zxy2hA?view)
+[CC0](https://creativecommons.org/publicdomain/zero/1.0/)
