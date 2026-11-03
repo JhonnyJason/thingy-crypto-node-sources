@@ -44,14 +44,5 @@ sharedSecretHex = STRINGHEX128
 
 ---
 
-# Further steps
-
-- Add more features when the requirement pops up.
-
-
-All sorts of inputs are welcome, thanks!
-
----
-
 # License
 [CC0](https://creativecommons.org/publicdomain/zero/1.0/)
